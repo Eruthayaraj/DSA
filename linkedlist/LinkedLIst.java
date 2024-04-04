@@ -28,6 +28,14 @@ public class LinkedLIst {
 
     }
 
+    // addAll method
+    void addAll(int [] elements)
+    {
+       for(int element : elements){
+        add(element);
+       }
+    }
+
     //add first mthod
     void addfirst(int e)
     {

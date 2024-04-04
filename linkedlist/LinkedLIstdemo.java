@@ -11,11 +11,8 @@ public class LinkedLIstdemo {
         ll.addfirst(5);
 
         ll.add(0,-1);
-
-        ll.removefirst();
-
-        ll.removelast();
-
+        int elements[]={1,2,3};
+        ll.addAll(elements);
         ll.printlinklist();
           
     }
