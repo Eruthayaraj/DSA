@@ -28,7 +28,7 @@ public class LinkedLIst {
 
     }
 
-    // addAll method
+    // addAindia method
     void addAll(int [] elements)
     {
        for(int element : elements){

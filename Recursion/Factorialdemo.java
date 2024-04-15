@@ -1,5 +1,4 @@
-package DSA.Recursion;
-
+package Recursion;
 public class Factorialdemo {
    static int sum=0;
     public static void main(String[] args) {
